@@ -1,0 +1,13 @@
+C:\Users\zmale\OneDrive\Bureau\udemy_c#\ConsoleApps\ConsoleApps\bin\Debug\netcoreapp3.1\ConsoleApps.exe
+C:\Users\zmale\OneDrive\Bureau\udemy_c#\ConsoleApps\ConsoleApps\bin\Debug\netcoreapp3.1\ConsoleApps.deps.json
+C:\Users\zmale\OneDrive\Bureau\udemy_c#\ConsoleApps\ConsoleApps\bin\Debug\netcoreapp3.1\ConsoleApps.runtimeconfig.json
+C:\Users\zmale\OneDrive\Bureau\udemy_c#\ConsoleApps\ConsoleApps\bin\Debug\netcoreapp3.1\ConsoleApps.runtimeconfig.dev.json
+C:\Users\zmale\OneDrive\Bureau\udemy_c#\ConsoleApps\ConsoleApps\bin\Debug\netcoreapp3.1\ConsoleApps.dll
+C:\Users\zmale\OneDrive\Bureau\udemy_c#\ConsoleApps\ConsoleApps\bin\Debug\netcoreapp3.1\ConsoleApps.pdb
+C:\Users\zmale\OneDrive\Bureau\udemy_c#\ConsoleApps\ConsoleApps\obj\Debug\netcoreapp3.1\ConsoleApps.csproj.AssemblyReference.cache
+C:\Users\zmale\OneDrive\Bureau\udemy_c#\ConsoleApps\ConsoleApps\obj\Debug\netcoreapp3.1\ConsoleApps.AssemblyInfoInputs.cache
+C:\Users\zmale\OneDrive\Bureau\udemy_c#\ConsoleApps\ConsoleApps\obj\Debug\netcoreapp3.1\ConsoleApps.AssemblyInfo.cs
+C:\Users\zmale\OneDrive\Bureau\udemy_c#\ConsoleApps\ConsoleApps\obj\Debug\netcoreapp3.1\ConsoleApps.csproj.CoreCompileInputs.cache
+C:\Users\zmale\OneDrive\Bureau\udemy_c#\ConsoleApps\ConsoleApps\obj\Debug\netcoreapp3.1\ConsoleApps.dll
+C:\Users\zmale\OneDrive\Bureau\udemy_c#\ConsoleApps\ConsoleApps\obj\Debug\netcoreapp3.1\ConsoleApps.pdb
+C:\Users\zmale\OneDrive\Bureau\udemy_c#\ConsoleApps\ConsoleApps\obj\Debug\netcoreapp3.1\ConsoleApps.genruntimeconfig.cache
